@@ -1,3 +1,3 @@
 echo bidouille
-echo salut
+echo salut toi
 echo "rebonjour, c’est cool"
