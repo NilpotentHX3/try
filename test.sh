@@ -1,1 +1,2 @@
+echo bidouille
 echo salut
